@@ -74,11 +74,21 @@ hr{
 /*--------------*/
 
 .footer {
-    top: 50vw;
+    top: 60vw;
 	position: relative;
 }
 
-.footer a{
+.footer-title h1{
+    text-align: center;
+    font-size: 4vw;
+}
+
+.footer-content {
+	top: 3vw;
+    position: relative;
+}
+
+.footer-content a {
 	text-align: center;
     font-size: 1.5vw;
 }
