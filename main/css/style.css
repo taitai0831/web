@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    font-family: Century Gothic;
+}
+
+hr{
+    width: 60%;
+    margin: 2vw auto;
+}
+/*-----*/
+.header {
+    top: 6vw;
+    position: relative;
+}
+
+.header-title h1{
+    text-align: center;
+    font-size: 8vw;
+    margin-top: 4vw;
+}
+
+.header-content h1 {
+	text-align: center;
+    font-size: 6vw;
+    margin-top: 4vw;
+    transition: all 400ms 0s ease;
+}
+
+.header-content h1:hover {
+    font-size: 7.3vw;
+    transition: all 200ms 0s ease;
+}
+
+/*-------*/
+
+.main {
+    top: 40vw;
+    position: relative;
+}
+
+.main-title {
+	text-align: center;
+    font-size: 4vw;
+    margin-bottom: 4vw;
+}
+
+.news {
+    margin-top: 8vw;
+    width: 60%;
+    height: auto;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.news-content {
+    margin-top: 5vw;
+}
+
+.news-content h2 {
+    font-size: 3vw;
+    text-align: center;
+}
+
+.news-content p {
+    font-size: 1.3vw;
+    margin: 10px;
+    text-align: center;
+}
+
+.news-date {
+    text-align: center;
+    color: dodgerblue;
+}
+/*--------------*/
+
+.footer {
+    top: 50vw;
+	position: relative;
+}
+
+.footer a{
+	text-align: center;
+    font-size: 1.5vw;
+}
