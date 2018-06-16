@@ -56,6 +56,10 @@ hr{
     margin-top: 5vw;
 }
 
+.news a {
+    text-align: center;
+}
+
 .news-content h2 {
     font-size: 3vw;
     text-align: center;
